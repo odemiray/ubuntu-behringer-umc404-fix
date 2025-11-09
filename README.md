@@ -5,7 +5,7 @@ Currently working for UMC404HD (should probably work fine with UMC202 or basical
 
 ## You know any other audio interface with exact solution?
 
-Feel free to open a PR. Might even use folders for manufactorer, if this is a known issue.
+Feel free to open a PR. Might even use folders for manufacturer, if this is a known issue.
 
 ## You want to improve the Readme? You tested in <foo> OS and confirm it's working?
 Feel free to open a PR and populate the list.
